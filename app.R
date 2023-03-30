@@ -122,5 +122,3 @@ server1 <- function(input, output) {
 
 b<-shinyApp(ui1, server1)
 b
-
-runGitHub( "zh5101", "wjun7890")
